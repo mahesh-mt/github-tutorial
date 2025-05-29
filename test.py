@@ -1,1 +1,10 @@
-print("Hello World!")
+def my_function():
+    a = 3
+    b = 4
+
+    return d
+
+
+
+
+
