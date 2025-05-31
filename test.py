@@ -1,13 +1,10 @@
-def my_function():
-    a = 3
-    b = 4
-    c = 6
+def hello():
+    """
+    this is new code
+    """
+    return hello
+hello()
 
-    return d
-
-my_function()
-     
-test ()
 
 
 
