@@ -1,10 +1,11 @@
+"""
+This module contains a simple hello function.
+"""
+
 def hello():
     """
-    this is new code
+    This is a new function that returns a greeting.
     """
-    return hello
-hello()
+    return "Hello"
 
-
-
-
+print(hello())
